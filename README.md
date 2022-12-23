@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ericsngyun
+- 👋 Hi, I’m Eric Yun
 - 👀 I’m interested in Full Stack & Blockchain Development
 - 🌱 I’m currently learning Next.JS, Tailwind, and more.
 - 💞️ I’m looking to collaborate on Full Stack Platforms/Projects
