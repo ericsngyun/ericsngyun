@@ -1,8 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4500&pause=1000&color=FAFDFA&center=true&vCenter=true&width=600&height=100&lines=Hi+I'm+Eric+Yun;I+am+a+Software+Engineer;I+like+working+Full-Stack)](https://git.io/typing-svg)
 ![ThreeOfJune_Banner01](https://user-images.githubusercontent.com/111465862/214509168-d5a8758b-ecab-4935-b06a-613b88a7f4a2.gif)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ericsngyun&theme=horizon)](https://git.io/streak-stats)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
