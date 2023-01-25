@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Eric Yun
-- 👀 I’m interested in Full Stack & Blockchain Development
-- 🌱 I’m currently learning GraphQL, tRPC, Prisma, and Typescript
-- 💞️ I’m looking to collaborate on Full Stack Platforms/Projects
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericsngyun)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 ericsngyun/ericsngyun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
