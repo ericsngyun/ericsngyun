@@ -1,12 +1,7 @@
-<div align = "center">
-{[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4500&pause=1000&color=FAFDFA&width=600&height=100&lines=Hi+I'm+Eric+Yun;I+am+a+Software+Engineer;I+like+working+Full-Stack)](https://git.io/typing-svg)}
-</div>
-<div align = "center">
-  ![ThreeOfJune_Banner01](https://user-images.githubusercontent.com/111465862/214509168-d5a8758b-ecab-4935-b06a-613b88a7f4a2.gif)
-</div>
-<div align = "center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4500&pause=1000&color=FAFDFA&width=600&height=100&lines=Hi+I'm+Eric+Yun;I+am+a+Software+Engineer;I+like+working+Full-Stack)](https://git.io/typing-svg)}
+![ThreeOfJune_Banner01](https://user-images.githubusercontent.com/111465862/214509168-d5a8758b-ecab-4935-b06a-613b88a7f4a2.gif)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-</div>
 
 
 <h3 align="center">Connect with me:</h3>
