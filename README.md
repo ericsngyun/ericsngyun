@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4500&pause=1000&color=FAFDFA&center=true&vCenter=true&width=600&height=100&lines=Hi+I'm+Eric+Yun;I+am+a+Software+Engineer;I+like+working+Full-Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4500&pause=1000&color=FAFDFA&vCenter=true&width=600&height=100&lines=Hi+I'm+Eric+Yun;I+am+a+Software+Engineer;I+like+working+Full-Stack)](https://git.io/typing-svg)
 ![eb50875a68b04b0480fa929af2c7547c](https://user-images.githubusercontent.com/111465862/214511449-9e3ef5b5-a5f6-4ae4-ba2c-b78d1a13dee8.gif)
 <br></br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ericsngyun&theme=horizon)](https://git.io/streak-stats)
